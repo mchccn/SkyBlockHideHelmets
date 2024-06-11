@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "nbt-js": "^0.1.0",
+        "prismarine-nbt": "^2.5.0",
+        "sharp": "^0.33.4"
+    },
+    "type": "module"
+}
